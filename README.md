@@ -1,4 +1,4 @@
 # Super Data Engineering OA
 Raw Airport Data Transformation
 
-My solution leverages pandas and is structured as helper functions for each column requirement. These functions are then called inside the main transform function.
+My solution leverages pandas and Python's io module (converting the raw string into a readable CSV object) and is structured as helper functions for each column requirement. These functions are then called inside the main transform function.
